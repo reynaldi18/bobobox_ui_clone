@@ -19,7 +19,6 @@ class HomeViewController: BaseViewController {
     ]
     
     var listUpdate = [
-        "logo_text",
         "logo_text"
     ]
     
